@@ -1,4 +1,4 @@
-FROM daocloud.io/library/golang:1-alpine
+FROM golang:latest
 
 ENV GOPATH /app/gopath
 
